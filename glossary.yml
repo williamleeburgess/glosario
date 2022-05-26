@@ -4509,6 +4509,17 @@
       GNU is a recursive acronym for "GNU is Not Unix!". The GNU operating
       system consists of GNU [packages](#package) as well as free software realeased by third parties.
 
+- slug: unix
+  ref:
+    - operating_system
+  en:
+    term: "UNIX"
+    def: >
+      UNIX (derived from "UNICS" for UNiplexed Information and Computing Service) is a 
+      family of [operating systems](#operating_system) (e.g., [GNU](#gnu) or LINUX). 
+      "This is the Unix philosophy: Write programs that do one thing and do it well. 
+      Write programs to work together. Write programs to handle text streams, because 
+      that is a universal interface."
 
 - slug: gpl
   ref:
